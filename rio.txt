@@ -1,0 +1,81 @@
+10 0
+72398163466
+Nilce Estevam Branco
+Rua Íris, São Gonçalo do Amarante, RN
+(84) 99780-1294
+Passagem001
+1A
+BH-RIO
+19 00
+35403678450
+Gislene Prucho Folly
+Rua Deputado Plínio Salgado, João Pessoa, PB 
+(83) 97933-7277
+Passagem002
+1B
+BH-RIO
+19 00
+78842261203
+Mariza Passos Celestino
+Rua Aurélio Bernardi, Ji-Paraná, RO
+(69) 98122-3978
+Passagem003
+1C
+BH-RIO
+19 00
+78842261203
+Tiago Quintela Avilla
+Rua Aurélio Bernardi, Ji-Paraná, RO
+(69) 98122-3978
+Passagem004
+4C
+BH-RIO
+19 00
+32462328815
+Kavan Borges Macedo
+Avenida Perimetral 409, Belém - PA
+(11) 99914-1485
+Passagem010
+10A
+BH-RIO
+19 00
+42356626190
+Dalva Cordeiro Quaresma
+Avenida Perimetral 409, Belém - PA
+(66) 98249-7916
+Passagem009
+9A
+BH-RIO
+19 00
+62214509348
+Aldemar de Carvalho Yabuta
+Avenida Perimetral 409, Belém - PA
+(86) 96930-5470
+Passagem011
+1A
+BH-RIO
+19 00
+74973746487
+Lenir Dutra Fonseca
+Avenida Perimetral 409, Belém - PA
+(83) 98421-6862
+Passagem012
+12A
+BH-RIO
+19 00
+30763254266
+Angela Barreto Salomão
+Avenida Perimetral 409, Belém - PA
+(95) 97493-3142
+Passagem013
+13A
+BH-RIO
+19 00
+77534142750
+Islayne Inácio Giron
+Avenida Perimetral 409, Belém - PA
+(28) 97654-8922
+Passagem014
+14A
+BH-RIO
+19 00
